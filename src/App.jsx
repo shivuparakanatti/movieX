@@ -20,13 +20,9 @@ import PageNotFound from './pages/404/PageNotFound'
 
 function App() {
 
-
   return (
     <div>
      <NavBar/>
-    
-     
-
 
     <Routes>
 
